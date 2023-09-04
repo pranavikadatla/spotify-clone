@@ -1,0 +1,31 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.heading{
+    font-family: DM Sans;
+font-size: 150px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: -10px;
+}
+nav>p>a{
+    text-decoration:none;
+    color:white;
+}
+.logo{
+    height:100%;
+    width:25%;
+    background-color: rgb(0,0,0);
+
+}
+nav>p{
+    padding-left: 15px;
+}
+.backgd{
+    background-color: rgb(40,40,40);
+}
+.bigbox{
+    background-color: rgb(40,40,40);
+}
