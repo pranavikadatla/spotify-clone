@@ -43,6 +43,8 @@ nav > div {
 }
 .footer {
   height: 20%;
+  position:sticky;
+    bottom:0px;
 }
 .home {
   height: 100%;
@@ -103,11 +105,11 @@ background: url(<path-to-image>), lightgray 50% / cover no-repeat;
 .marginright{
   margin-right: 100px;
 }
-/* .navbarfixed{
-  position:fixed;
-  display: flex;
-  justify-content: space-between;
-}*/
+ .navbarfixed{
+  position:sticky;
+  top:0px;
+ }
+  
 .footer-2{
   width:100%;
   height:20px;
